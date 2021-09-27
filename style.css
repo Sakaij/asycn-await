@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@700&display=swap');
+
+
+.container{
+    width: 1080px;
+    margin: 120px auto;
+}
+
+.soushi_item{
+    font-size: 40px;
+    font-family: 'Shippori Mincho', serif;
+    color: #111111;
+    display: none;
+}
